@@ -7,7 +7,7 @@ from telebot import types
 sticker = {}
 
 
-bot = telebot.TeleBot('5247497288:AAHkz-1-1RVVKCshTxqZ1UPpTvUg9scQZpQ')
+bot = telebot.TeleBot('')
 
 i = 0
 k = 0
